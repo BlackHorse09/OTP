@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1070027392942",
+    "firebase_url": "https://otpproject-fedae.firebaseio.com",
+    "project_id": "otpproject-fedae",
+    "storage_bucket": "otpproject-fedae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070027392942:android:53538c744eaab33d",
+        "android_client_info": {
+          "package_name": "com.dexterlab.sahil.otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070027392942-0brfmbq25c8rh1bej6tvh9qcgua26f79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dexterlab.sahil.otp",
+            "certificate_hash": "e7e79698a32df1764f117969d83a19133798c13c"
+          }
+        },
+        {
+          "client_id": "1070027392942-3dfo2jv8sfmnfk6d68u7oi4nokf2gi01.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1070027392942-3dfo2jv8sfmnfk6d68u7oi4nokf2gi01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwdSLmMo9wltdDX1hdxASubxS3f0HT3aY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070027392942-3dfo2jv8sfmnfk6d68u7oi4nokf2gi01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
